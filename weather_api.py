@@ -2,7 +2,9 @@ import requests
 from pprint import pprint
 from datetime import datetime, timezone
 
+# ключ специально не спрятан для упрощения тестов
 API_KEY = '38ad86acd1e942701713eb98c83f7a21'  # введите свой ключ
+
 
 # задание 3.а. 2.
 my_toun = 'Moskow'  #  введите название своего города
