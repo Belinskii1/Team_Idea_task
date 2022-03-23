@@ -1,7 +1,7 @@
 ##  Team Idea Task
 
 ### Описание
-Тестовое задание от компании Team Idea Task.
+Тестовое задание от компании Team Idea.
 
 git clone https://github.com/Belinskii1/Team_Idea_task.git
 
