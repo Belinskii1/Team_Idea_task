@@ -35,9 +35,6 @@ print(day_duration) # разницу за 5 дней нашел только в 
 
 # задание 3.а. 1.
 
-pprint(response_5_days['list'][0]['main']['feels_like'])
-
-result_list = []
 result_dict = {}
 for i in range(5):
     result = int(
